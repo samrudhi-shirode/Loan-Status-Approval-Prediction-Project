@@ -1,4 +1,3 @@
-# Loan-Status-Approval-Prediction-Project
 # Loan Status Approval Prediction using Machine Learning
 
 ## 📌 About the Project
