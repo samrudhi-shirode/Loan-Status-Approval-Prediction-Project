@@ -9,7 +9,7 @@ st.set_page_config("Deployment Project")
 st.title("Loan Status Prediction Project")
 
 # Set header
-st.subheader("By Vaishnavi Badade")
+st.subheader("By Samrudhi Shirode")
 
 # Load the pipeline (data cleaning, preprocessing) and model
 pre = joblib.load("pre.joblib")
